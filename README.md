@@ -15,4 +15,3 @@ On retrouve les mécaniques suivantes :
 
 - Respawn
 - Terrain glissant
-- TP
