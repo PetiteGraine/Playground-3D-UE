@@ -8,10 +8,10 @@ On retrouve les mécaniques suivantes :
 
 - Mouvement de base
 - Double jump
+- Respawn
 - Trampoline
 - TP
 
 ## Mécaniques à venir
 
-- Respawn
 - Terrain glissant
