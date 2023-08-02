@@ -1,17 +1,13 @@
 # Playground 3D UE
 
-Mon premier projet sur Unreal Engine. Il s'agit d'un playground où on retrouve plusieurs mécaniques simple d'un jeu platformer. Le but du projet est d'apprendre les bases de Unreal Engine.
+My first Unreal Engine project. It's a playground with many simple platformer mechanics. The aim of the project is to learn the basics of Unreal Engine.
 
-On retrouve les mécaniques suivantes :
+It includes the following mechanics:
 
-## Mécaniques présentes
+## Mechanics present
 
-- Mouvement de base
+- Basic movement
 - Double jump
 - Respawn
 - Trampoline
 - TP
-
-## Mécaniques à venir
-
-- Terrain glissant
